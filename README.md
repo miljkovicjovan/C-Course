@@ -1,6 +1,6 @@
 # C-Course
 
-## This is all the Source Code for the C course
+## YouTube Course
 
 [Course Video](https://youtu.be/xgj4Gp3AKsI)
 
