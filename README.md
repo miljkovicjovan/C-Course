@@ -4,7 +4,7 @@
 
 [Course Video](https://youtu.be/xgj4Gp3AKsI)
 
-## Course Outline
+# Course Outline
 
 Intro to principles of C programming language (general)
 
